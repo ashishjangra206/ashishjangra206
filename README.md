@@ -9,6 +9,16 @@ I'm a passionate Backend Developer who enjoys building scalable applications, so
 * 🛠️ Passionate about writing clean, maintainable, and efficient code.
 * 🤝 Always open to collaborating with fellow developers and learning from the community.
 
+## 💻 Tech Stack
+
+* ☕ Java, C#.NET
+* 🌱 Spring Boot, Spring AI, Spring MVC
+* 🗄️ MySQL, PostGreSQL
+* 🐳 Docker, Kubernetes
+* 🔧 Maven
+* 🌐 REST APIs, Microservices Architecture
+* 📝 Git & GitHub
+
 ## 🚀 Current Goals
 
 * Building real-world backend projects.
@@ -26,12 +36,13 @@ I'm a passionate Backend Developer who enjoys building scalable applications, so
 
 ## 📬 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/ashishjangra206/
-* Email: (mailto:ashishjangra206@gmail.com)
+* LinkedIn: [www.linkedin.com/in/ashishjangra206](http://www.linkedin.com/in/ashishjangra206)
+* Email: [ashishjangra206@gmail.com](mailto:ashishjangra206@gmail.com)
 
 ## ⚡ Fun Fact
 
 I believe consistency beats motivation, and small daily improvements lead to massive long-term growth.
 
+---
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories, connect with me, or reach out for collaboration and learning opportunities.
