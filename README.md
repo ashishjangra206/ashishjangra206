@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ashish
+# 👋 Hi there, I'm Ashish Kumar
 
 I'm a passionate Backend Developer who enjoys building scalable applications, solving real-world problems, and continuously learning new technologies. I love turning ideas into working software and improving my skills through hands-on projects.
 
@@ -12,16 +12,16 @@ I'm a passionate Backend Developer who enjoys building scalable applications, so
 ## 💻 Tech Stack
 
 * ☕ Java, C#.NET
-* 🌱 Spring Boot, Spring AI, Spring MVC
-* 🗄️ MySQL, PostGreSQL
-* 🐳 Docker, Kubernetes
-* 🔧 Maven
+* 🌱 Spring Boot, Spring AI, Spring MVC, Hibernate, JPA
+* 🗄️ MySQL, PostGreSQL, Oracle
+* 🐳 Docker, Kubernetes, Kafka, Redis
+* 🔧 Maven, Postman, JUnit
 * 🌐 REST APIs, Microservices Architecture
 * 📝 Git & GitHub
 
-## 🚀 Current Goals
+## 🚀 Currently Working On
 
-* Building real-world backend projects.
+* Building exciting projects that solve real-world problems.
 * Strengthening problem-solving and software design skills.
 * Learning scalable and distributed system architecture.
 * Contributing to meaningful projects and open-source initiatives.
