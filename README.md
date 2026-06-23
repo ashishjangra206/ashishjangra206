@@ -13,9 +13,9 @@ I'm a passionate Backend Developer who enjoys building scalable applications, so
 
 * ☕ Java, C#.NET, C++
 * 🌱 Spring Boot, Spring AI, Spring MVC, Hibernate, JPA
-* 🗄️ MySQL, PostGreSQL, Oracle
+* 🗄️ MySQL, PostGreSQL, Oracle , SQL-Server
 * 🐳 Docker, Kubernetes, Kafka, Redis
-* 🔧 Maven, Postman, JUnit
+* 🔧 Maven, Gradle, Postman, JUnit, Mockito
 * 🌐 REST APIs, Microservices Architecture
 * 📝 Git & GitHub
 
