@@ -11,7 +11,7 @@ I'm a passionate Backend Developer who enjoys building scalable applications, so
 
 ## 💻 Tech Stack
 
-* ☕ Java, C#.NET, C++
+* ☕ Java 21+, C#.NET, C++
 * 🌱 Spring Boot, Spring AI, Spring MVC, Hibernate, JPA
 * 🗄️ MySQL, PostGreSQL, Oracle , SQL-Server
 * 🐳 Docker, Kubernetes, Kafka, Redis
