@@ -11,7 +11,7 @@ I'm a passionate Backend Developer who enjoys building scalable applications, so
 
 ## 💻 Tech Stack
 
-* ☕ Java 21+, C#.NET, C++
+* ☕ Java 8/11/17, C#.NET, C++
 * 🌱 Spring Boot, Spring AI, Spring MVC, Hibernate, JPA
 * 🗄️ MySQL, PostGreSQL, Oracle , SQL-Server
 * 🐳 Docker, Kubernetes, Kafka, Redis
@@ -37,7 +37,6 @@ I'm a passionate Backend Developer who enjoys building scalable applications, so
 ## 📬 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/ashishjangra206](http://www.linkedin.com/in/ashishjangra206)
-* Email: [ashishjangra206@gmail.com](mailto:ashishjangra206@gmail.com)
 
 ## ⚡ Fun Fact
 
